@@ -1,3 +1,4 @@
+![Mario Demo](https://github.com/MarioMihret/Movies-World/blob/main/movie%20demo%20mario.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
